@@ -57,6 +57,11 @@ public class WorkSpace {
 	 // create 2 non static methods  -> in body of method -> create a two variables  -> do mul in method, Div in another method
 	 
 	 
+//	 Calling a non-static  method 
+	 
+//	 ObjectRef.methodName();
+	 	 
+// 	 ObjectRef.methodName(parameters);   parameters like (int a , int b, int c)    or  (float y, boolean x)
 	 
 	 
 	 

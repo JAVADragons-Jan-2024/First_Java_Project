@@ -24,7 +24,8 @@ public class Person {
     	   age = ageinput;
 		 
 	   }
-
+       
+    
 	 
 	public static void main(String[] args) {
 //		

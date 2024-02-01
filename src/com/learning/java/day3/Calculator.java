@@ -19,7 +19,7 @@ public class Calculator {
 		  System.out.println(Calculator.z);
 //		  System.out.println(Calculator.w);
 		  
-		  // non -static
+		  // non -static                       
 		  
 		  Calculator calc1= new Calculator();
 //		  calc1.sub();
@@ -27,7 +27,7 @@ public class Calculator {
 		  calc1.x = 10;
 		  calc1.y = 52;
 		  calc1.z = 20;
-		  
+		  calc1.mul(12, 4);
 		  Calculator calc2= new Calculator();
 		  
 		  System.out.println(calc2.z);
@@ -53,8 +53,8 @@ public class Calculator {
 	 // create 2 non static methods  -> in body of method -> create a two variables  -> do mul in method, Div in another method
 	
 
-	public  void mul() {
-		int a=10; int b=5;
+	public  void mul(int a, int b) {
+	
 		
 		System.out.println(a*b);
 

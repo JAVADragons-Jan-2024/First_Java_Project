@@ -1,5 +1,7 @@
 package com.learning.java.day3;
 
+import com.learning.java.day4.Employee;
+
 public class OOPs {
 
 	public static void main(String[] args) {
@@ -64,7 +66,7 @@ public class OOPs {
 		
 	}
 	
-	
+
 	
 //	Special Method called Constructors -> To Initialize the Objects.  - > it will be used to set the initial values of Object Attributes. 
 //      Constructor is called to create an object.
