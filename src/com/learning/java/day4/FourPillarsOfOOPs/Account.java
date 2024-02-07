@@ -9,6 +9,7 @@ public abstract class Account {
 	public String getAccountHolderName() {
 		return accountHolderName;
 	}
+
 	public void setAccountHolderName(String accountHolderName) {
 		this.accountHolderName = accountHolderName;
 	}

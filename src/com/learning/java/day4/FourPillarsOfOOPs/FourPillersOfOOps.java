@@ -78,7 +78,38 @@ public class FourPillersOfOOps {
 
 
 //		 home Work
-		 
+		
+//        
+		
+		
+// 1. write is the difference bewteen double and int.
+// 2. howmany datatypes we have ?
+// 3. create a variable animalcount as 20, int and typecast it to double 
+// 4. write if condition to check given number is divisible by 9 and 27 and check even or not.
+// 5. use switch statement 
+//		   print if course is Cs pritn CS
+//		   print if course is EEE pritn EEE
+//		   print if course is MECH  print Mech
+// 6. Create a Class Pet   => with name, type, breed, age  as public 
+//		       create      =>methods  - > public sound(),  private eat(), sleep();
+// 7. Create a 4 Objects of Pets and call all the methods in Zoo Class. 
+// 8. Create a Movie Class  => with name, duration, noOfCast 
+//		                    =>make them private 
+//		                    create a getter and settrs
+// 9. Difference between Static and Non static. 
+// 10. 	How Many access modifiers we have, what are those?	
+		
+		
+		
+//		git init 
+//		git status                               here you will redcolor
+//		git add  .                               it will add all the files inside current folder.
+//		git status                               you will see green color
+//		git commit -m "commit message"           we are adding a message to chnages
+//		git remote add origin link
+//		git branch -M main
+//		git push -u origin main
+//		git clone link
 		
 		
 		

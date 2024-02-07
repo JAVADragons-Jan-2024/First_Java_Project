@@ -9,7 +9,6 @@ public class Bank {
 		SavingsAccount sa2 = new SavingsAccount();
 		TotalCheckingsAccount ta = new TotalCheckingsAccount();
 		  ca.getInterstRate();
-		  
 
 ;	}
 	
