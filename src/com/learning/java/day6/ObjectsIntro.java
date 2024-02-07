@@ -26,20 +26,7 @@ public class ObjectsIntro {
        
         System.out.println( emp1.equals(emp2));
         
-        Teacher teacher1 = new Teacher();
-        teacher1.name = "Tom";
-        teacher1.id = 1;
-        teacher1.salary = 50;
         
-        
-        Driver driver1= new Driver();
-        driver1.name = "Kim";
-        driver1.id = 1;
-        driver1.salary=120;
-        
-        emp1.work();
-        teacher1.work();
-        driver1.work();
         
         		 
         

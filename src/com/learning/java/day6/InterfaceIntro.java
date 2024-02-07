@@ -23,7 +23,7 @@ public class InterfaceIntro {
 		
 //		 the interface can not contain constructors.
 		
-//		All variables and methods in an interface are declared as public.
+//		 All variables and methods in an interface are declared as public.
 		
 //		 One interface can have a child or a parent just like normal class 
 //		 ex: one interface can extends another interface properties 
